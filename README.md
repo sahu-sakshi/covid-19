@@ -194,7 +194,7 @@ Project Link: [https://github.com/sahu-sakshi/covid-19](https://github.com/sahu-
 
 - [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19) for providing comprehensive COVID-19 data
 - [World Bank](https://data.worldbank.org/) for socioeconomic indicators
-- [DataHub](https://datahub.io/) for country and continent mapping data
+- [DataHub](https://datahub.io/) for country and continent mapping data.
 
 ---
 
